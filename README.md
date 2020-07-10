@@ -9,8 +9,8 @@ Hello, I'm Taku Semba. I mainly work on Android, and interested in Media Streami
 
 ### Book :closed_book:
 - みんなのKotlin: https://www.amazon.co.jp/o/ASIN/4297109174/
-- ExoPlayer実践ガイド ~Coreライブラリ編~: https://booth.pm/ja/items/2076653
-- ExoPlayer実践ガイド ~Extensionライブラリ編~: https://booth.pm/ja/items/2076635
+- ExoPlayer実践ガイド Coreライブラリ編: https://booth.pm/ja/items/2076653
+- ExoPlayer実践ガイド Extensionライブラリ編: https://booth.pm/ja/items/2076635
 
 ### Get in touch :octocat:
 - Twitter: https://twitter.com/takusemba
