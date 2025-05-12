@@ -1,4 +1,4 @@
-### Taku Semba - [takusemba.com](https://takusemba.com) 👋
+### Taku Semba - [portfolio.takusemba.com](https://portfolio.takusemba.com) 👋
 
 Hello, I'm Taku Semba. I mainly work on Android, and interested in Media Streaming, Kubernetes/Docker.
 
